@@ -1,6 +1,7 @@
 package com.Fibonacci;
 
 public class FibIterative {
+    // Fib
     // Fibonacci series -> 0 1 1 2 3 5 8 13 21 34 .......
     public void fib_iterative(int num) {
         int first = 0;
